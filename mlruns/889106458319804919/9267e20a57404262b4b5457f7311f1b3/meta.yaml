@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/889106458319804919/9267e20a57404262b4b5457f7311f1b3/artifacts
+end_time: 1748954350705
+entry_point_name: ''
+experiment_id: '889106458319804919'
+lifecycle_stage: active
+run_id: 9267e20a57404262b4b5457f7311f1b3
+run_name: silent-gnu-571
+run_uuid: 9267e20a57404262b4b5457f7311f1b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748954322743
+status: 3
+tags: []
+user_id: Amit

@@ -1,0 +1,90 @@
+MLflow Automatically Logs (When You Use the Tracking API)
+🔷 1. Parameters
+Key-value pairs (usually model or training config)
+
+python
+Copy
+Edit
+mlflow.log_param("learning_rate", 0.01)
+🔷 2. Metrics
+Quantitative results, logged over time or steps
+
+python
+Copy
+Edit
+mlflow.log_metric("accuracy", 0.92)
+🔷 3. Artifacts
+Files such as:
+
+Model files (e.g., .pkl, .h5)
+
+Plots (e.g., .png)
+
+CSVs, logs, config files, notebooks
+
+python
+Copy
+Edit
+mlflow.log_artifact("confusion_matrix.png")
+🔷 4. Source Code Snapshot
+When using mlflow.start_run(), it logs your working directory snapshot (if enabled with log_code=True).
+
+🔷 5. Run Metadata
+Run ID
+
+Experiment ID/name
+
+Start time, end time
+
+Tags (e.g., git commit, user)
+
+python
+Copy
+Edit
+mlflow.set_tag("framework", "scikit-learn")
+🧠 Optional (But Powerful)
+🔶 6. Models (MLflow Model Registry)
+Register trained models
+
+Store with versioning
+
+python
+Copy
+Edit
+mlflow.sklearn.log_model(model, "model")
+🔶 7. Automatic Logging (autolog)
+Logs parameters, metrics, model, and artifacts automatically:
+
+python
+Copy
+Edit
+mlflow.sklearn.autolog()
+Supported libraries: scikit-learn, XGBoost, TensorFlow, PyTorch, LightGBM, etc.
+
+❌ What MLflow Does NOT Log Automatically
+Item	Logging Required?
+Raw datasets	❌ Not logged by default — must use log_artifact() or log_input()
+Data schema / shape	❌ Not logged unless manually added
+Intermediate outputs (arrays)	❌ Not logged unless explicitly saved
+Custom plots (matplotlib/seaborn)	❌ Must save and log manually
+Model performance explanation (SHAP, LIME)	❌ Must generate + log manually
+Feature importance scores	❌ Not logged unless user-defined
+Environment/Dependencies	✅ Can log with conda.yaml or requirements.txt
+Console logs / stdout	❌ Not logged unless redirected to file
+Evaluation reports (e.g., classification_report)	❌ Manually log as artifact/text file
+
+✅ Summary Table
+Element	Logged by MLflow?
+Parameters	✅ Yes
+Metrics	✅ Yes
+Artifacts	✅ Yes
+Source code	✅ (if log_code=True)
+Model files	✅ Yes
+Raw data	❌ No (log manually)
+Feature importance	❌ No
+Evaluation reports	❌ No
+SHAP/LIME explanations	❌ No
+Training logs (stdout)	❌ No
+Custom plots (matplotlib)	❌ No (log manually)
+
+

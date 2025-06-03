@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/git-tutorial/MLOps-OOP/MLops_using_MLflow/src/mlruns/0/936fd79893684a599bd3489ace7e0ffb/artifacts
+end_time: 1748941385066
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 936fd79893684a599bd3489ace7e0ffb
+run_name: languid-boar-420
+run_uuid: 936fd79893684a599bd3489ace7e0ffb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748941384926
+status: 3
+tags: []
+user_id: Amit

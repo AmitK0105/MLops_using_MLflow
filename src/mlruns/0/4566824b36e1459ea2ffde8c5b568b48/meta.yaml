@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/git-tutorial/MLOps-OOP/MLops_using_MLflow/src/mlruns/0/4566824b36e1459ea2ffde8c5b568b48/artifacts
+end_time: 1748941934661
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4566824b36e1459ea2ffde8c5b568b48
+run_name: likeable-hen-893
+run_uuid: 4566824b36e1459ea2ffde8c5b568b48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748941934502
+status: 3
+tags: []
+user_id: Amit

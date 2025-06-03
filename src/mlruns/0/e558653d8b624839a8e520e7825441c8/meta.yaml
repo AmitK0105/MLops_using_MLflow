@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/git-tutorial/MLOps-OOP/MLops_using_MLflow/src/mlruns/0/e558653d8b624839a8e520e7825441c8/artifacts
+end_time: 1748940913531
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e558653d8b624839a8e520e7825441c8
+run_name: monumental-dog-259
+run_uuid: e558653d8b624839a8e520e7825441c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748940913380
+status: 3
+tags: []
+user_id: Amit

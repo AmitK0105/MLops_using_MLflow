@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/889106458319804919/e4091cdda5e24d7296a2adf1e9954354/artifacts
+end_time: 1748952987639
+entry_point_name: ''
+experiment_id: '889106458319804919'
+lifecycle_stage: active
+run_id: e4091cdda5e24d7296a2adf1e9954354
+run_name: intelligent-vole-622
+run_uuid: e4091cdda5e24d7296a2adf1e9954354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748952986041
+status: 3
+tags: []
+user_id: Amit

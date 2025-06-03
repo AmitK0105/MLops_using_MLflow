@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5829efa9c6ff41209e8d55026c94e077/artifacts
+end_time: 1748951730701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5829efa9c6ff41209e8d55026c94e077
+run_name: shivering-ape-631
+run_uuid: 5829efa9c6ff41209e8d55026c94e077
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748951729389
+status: 4
+tags: []
+user_id: Amit

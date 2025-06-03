@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2353253d840845ebb887922c0b367284/artifacts
+end_time: 1748951853233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2353253d840845ebb887922c0b367284
+run_name: languid-jay-676
+run_uuid: 2353253d840845ebb887922c0b367284
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748951852425
+status: 4
+tags: []
+user_id: Amit

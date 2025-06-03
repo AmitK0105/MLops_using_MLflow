@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/git-tutorial/MLOps-OOP/MLops_using_MLflow/src/mlruns/0/e6cb296481e245b280018344e7e2df63/artifacts
+end_time: 1748940557939
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6cb296481e245b280018344e7e2df63
+run_name: bold-bear-52
+run_uuid: e6cb296481e245b280018344e7e2df63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748940557744
+status: 4
+tags: []
+user_id: Amit
