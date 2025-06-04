@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/git-tutorial/MLOps-OOP/MLops_using_MLflow/mlruns/263659781228596675/f37a40814de74c388606a14f75ddd6d4/artifacts
+end_time: 1749026705844
+entry_point_name: ''
+experiment_id: '263659781228596675'
+lifecycle_stage: active
+run_id: f37a40814de74c388606a14f75ddd6d4
+run_name: intrigued-ram-258
+run_uuid: f37a40814de74c388606a14f75ddd6d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749026705595
+status: 3
+tags: []
+user_id: Amit

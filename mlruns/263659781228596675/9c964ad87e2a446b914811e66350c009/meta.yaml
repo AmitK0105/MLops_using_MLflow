@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/git-tutorial/MLOps-OOP/MLops_using_MLflow/mlruns/263659781228596675/9c964ad87e2a446b914811e66350c009/artifacts
+end_time: 1749026702827
+entry_point_name: ''
+experiment_id: '263659781228596675'
+lifecycle_stage: active
+run_id: 9c964ad87e2a446b914811e66350c009
+run_name: abrasive-gull-337
+run_uuid: 9c964ad87e2a446b914811e66350c009
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749026702701
+status: 3
+tags: []
+user_id: Amit

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/git-tutorial/MLOps-OOP/MLops_using_MLflow/mlruns/263659781228596675/e5dc366a49f9446d83c7690a908b3e11/artifacts
+end_time: 1749026703147
+entry_point_name: ''
+experiment_id: '263659781228596675'
+lifecycle_stage: active
+run_id: e5dc366a49f9446d83c7690a908b3e11
+run_name: fun-wolf-914
+run_uuid: e5dc366a49f9446d83c7690a908b3e11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749026703001
+status: 3
+tags: []
+user_id: Amit

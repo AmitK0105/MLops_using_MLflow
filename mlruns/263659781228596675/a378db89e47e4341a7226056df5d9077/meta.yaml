@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/git-tutorial/MLOps-OOP/MLops_using_MLflow/mlruns/263659781228596675/a378db89e47e4341a7226056df5d9077/artifacts
+end_time: 1749026733090
+entry_point_name: ''
+experiment_id: '263659781228596675'
+lifecycle_stage: active
+run_id: a378db89e47e4341a7226056df5d9077
+run_name: skittish-worm-70
+run_uuid: a378db89e47e4341a7226056df5d9077
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749026684973
+status: 3
+tags: []
+user_id: Amit

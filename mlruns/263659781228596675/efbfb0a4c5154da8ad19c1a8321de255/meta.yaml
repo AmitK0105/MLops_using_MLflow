@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/git-tutorial/MLOps-OOP/MLops_using_MLflow/mlruns/263659781228596675/efbfb0a4c5154da8ad19c1a8321de255/artifacts
+end_time: 1749026702228
+entry_point_name: ''
+experiment_id: '263659781228596675'
+lifecycle_stage: active
+run_id: efbfb0a4c5154da8ad19c1a8321de255
+run_name: glamorous-wren-614
+run_uuid: efbfb0a4c5154da8ad19c1a8321de255
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749026702074
+status: 3
+tags: []
+user_id: Amit

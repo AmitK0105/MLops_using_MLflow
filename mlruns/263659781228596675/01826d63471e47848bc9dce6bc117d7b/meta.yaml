@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/git-tutorial/MLOps-OOP/MLops_using_MLflow/mlruns/263659781228596675/01826d63471e47848bc9dce6bc117d7b/artifacts
+end_time: 1749024326400
+entry_point_name: ''
+experiment_id: '263659781228596675'
+lifecycle_stage: active
+run_id: 01826d63471e47848bc9dce6bc117d7b
+run_name: clumsy-midge-951
+run_uuid: 01826d63471e47848bc9dce6bc117d7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749024308852
+status: 4
+tags: []
+user_id: Amit

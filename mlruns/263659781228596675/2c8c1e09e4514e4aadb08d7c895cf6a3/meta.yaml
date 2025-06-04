@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/git-tutorial/MLOps-OOP/MLops_using_MLflow/mlruns/263659781228596675/2c8c1e09e4514e4aadb08d7c895cf6a3/artifacts
+end_time: 1749026703462
+entry_point_name: ''
+experiment_id: '263659781228596675'
+lifecycle_stage: active
+run_id: 2c8c1e09e4514e4aadb08d7c895cf6a3
+run_name: luxuriant-lynx-352
+run_uuid: 2c8c1e09e4514e4aadb08d7c895cf6a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749026703321
+status: 3
+tags: []
+user_id: Amit

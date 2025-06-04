@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/git-tutorial/MLOps-OOP/MLops_using_MLflow/mlruns/263659781228596675/6af43d2c494245ff9e51883edced7d94/artifacts
+end_time: 1749025948974
+entry_point_name: ''
+experiment_id: '263659781228596675'
+lifecycle_stage: active
+run_id: 6af43d2c494245ff9e51883edced7d94
+run_name: fortunate-pig-385
+run_uuid: 6af43d2c494245ff9e51883edced7d94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749025931630
+status: 4
+tags: []
+user_id: Amit

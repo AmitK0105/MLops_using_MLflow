@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1749028515961
+current_stage: None
+description: ''
+last_updated_timestamp: 1749028515961
+name: Amit_Model1
+run_id: a378db89e47e4341a7226056df5d9077
+run_link: ''
+source: file:///E:/git-tutorial/MLOps-OOP/MLops_using_MLflow/mlruns/263659781228596675/a378db89e47e4341a7226056df5d9077/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///E:/git-tutorial/MLOps-OOP/MLops_using_MLflow/mlruns/263659781228596675/a378db89e47e4341a7226056df5d9077/artifacts/random_forest
+user_id: null
+version: 1

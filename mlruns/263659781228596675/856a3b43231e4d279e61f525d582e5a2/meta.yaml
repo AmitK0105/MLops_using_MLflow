@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/git-tutorial/MLOps-OOP/MLops_using_MLflow/mlruns/263659781228596675/856a3b43231e4d279e61f525d582e5a2/artifacts
+end_time: 1749025082389
+entry_point_name: ''
+experiment_id: '263659781228596675'
+lifecycle_stage: active
+run_id: 856a3b43231e4d279e61f525d582e5a2
+run_name: placid-chimp-341
+run_uuid: 856a3b43231e4d279e61f525d582e5a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749025065663
+status: 4
+tags: []
+user_id: Amit

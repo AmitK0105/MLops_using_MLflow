@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/git-tutorial/MLOps-OOP/MLops_using_MLflow/mlruns/263659781228596675/b029873d89f34a63a0540dad471c3416/artifacts
+end_time: 1749026704627
+entry_point_name: ''
+experiment_id: '263659781228596675'
+lifecycle_stage: active
+run_id: b029873d89f34a63a0540dad471c3416
+run_name: respected-grub-229
+run_uuid: b029873d89f34a63a0540dad471c3416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749026704467
+status: 3
+tags: []
+user_id: Amit
